@@ -1,0 +1,17 @@
+/* Propiedades personalizadas */
+:root {
+    /* Colores primarios */
+    --primario: #ffca28;
+    --primarioLigero: #fffd61;
+    --primarioOscuro: #c79a00;
+
+    /* Colores de textos u otros */
+    --colorNegro: #000000;
+    --colorBlanco: #ffffff;
+
+    /* Colores para componenetes */
+    --elemento1: #2196f3;
+
+    --fuentePrincipal: 'Montserrat', sans-serif;
+
+}
